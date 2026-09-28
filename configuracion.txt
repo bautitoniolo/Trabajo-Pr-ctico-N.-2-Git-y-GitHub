@@ -1,1 +1,9 @@
-configuracion 
+<<<<<<< HEAD
+
+=======
+Creando configuraciones.
+
+Agregando seccion de instalacion: Aqui es donde se va a instalar todo.
+
+Funcionalidades: aqui va la documentacion.
+>>>>>>> origin/feature/ramiro
